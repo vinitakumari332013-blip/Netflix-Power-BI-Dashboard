@@ -1,0 +1,10 @@
+Netflix_Data_Analysis_using_PowerBI
+
+Analysis on Netflix shows and stock market data using MS Power BI
+
+- Loaded the data and cleaned and transformed the data sources using power query to create powerful and interactive report dashboard.
+- Used the Netflix show data to analyze the Movies VS Series trends in data and created an interactive report, includes slicers and filters.
+- Also analysed the Netflix stock market data to study the trends stock market prices and highest and lowest stock prices.
+- Included navigation to pages for easy access to reports.
+- Created and used calculted measures for interactivity in report.
+- Include a mobile version as well for ease of access through any device
