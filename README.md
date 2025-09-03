@@ -4,6 +4,7 @@
 This project focuses on analyzing **Netflix shows** and **Netflix stock market data** using **Microsoft Power BI**.
 The goal is to create an **interactive, insightful, and mobile-friendly dashboard** for exploring content trends and stock price performance.
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/352d5976-caac-46af-81c3-6edaf7c799c6" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b8dca446-4a80-44fb-8b31-530cee8a192a" />
 
 ---
 
